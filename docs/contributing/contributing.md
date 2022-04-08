@@ -7,7 +7,7 @@ description: "Semgrep is LGPL-licensed and contributions are welcome. Get starte
 
 Semgrep is LGPL-licensed and contributions are welcome.
 
-To start contributing, first please make sure you read and agree with the [Contributor Covenant Code of Conduct](https://github.com/returntocorp/semgrep/blob/develop/CODE_OF_CONDUCT.md).
+To start contributing, make sure you read and agree with the [Contributor Covenant Code of Conduct](https://github.com/returntocorp/semgrep/blob/develop/CODE_OF_CONDUCT.md).
 Then check out a few ways you can get involved:
 
 - [File an issue](https://github.com/returntocorp/semgrep/issues/new/choose)

@@ -1,11 +1,8 @@
 # Contributing code
 
-Semgrep welcomes contributions from anyone. If you have an idea for a feature
-or notice a bug please [open an issue](https://github.com/returntocorp/semgrep/issues/new/choose).
-Creating an issue first is preferable to moving directly to a pull request so
-that we can ensure you're on the right track without any wasted effort. This
-is also a great way to contribute to Semgrep even if you're not making changes
-yourself.
+Semgrep welcomes contributions from anyone. If you have an idea for a feature or notice a bug please [open an issue](https://github.com/returntocorp/semgrep/issues/new/choose).
+Creating an issue first is preferable to moving directly to a pull request so that we can ensure you're on the right track without any wasted effort. This
+is also a great way to contribute to Semgrep even if you're not making changes yourself.
 
 This README gives an overview of the repository. For further information on building, you will be directed to [semgrep-core-contributing](semgrep-core-contributing.md) and/or [semgrep-contributing](semgrep-contributing.md) in [Making a Change](#making-a-change). 
 
@@ -15,7 +12,7 @@ Semgrep consists of a Python wrapper (`semgrep`) around an OCaml engine (`semgre
 
 You may also be interested in `perf`, which contains our code for running repositories against specific rulesets.
 
-There are many other files, but the below diagram broadly displays the file structure. 
+There are many other files, but the below diagram broadly displays the file structure.
 
 ```
 .
